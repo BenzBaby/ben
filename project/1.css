@@ -1,0 +1,16 @@
+body{
+ background-image: url('1.gif');
+background-position:center;
+
+  background-repeat: no-repeat;
+background-size:cover;
+}
+h1{
+	color:red;
+}
+p{
+	color:powderblue;
+}
+	textarea{
+		resize:none;
+	}
